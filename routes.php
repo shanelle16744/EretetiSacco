@@ -1,3 +1,7 @@
+<?php
+$page_title = 'Contact us';
+include 'includes/header.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -47,3 +51,4 @@
 <p>Ereteti Dairy Sacco, PO Box 4021, Ngong.</p>
 <p>Site built by Flora Tulina, DBT Year 1, 2026.</p>
 </footer>
+include 'includes/footer.php';

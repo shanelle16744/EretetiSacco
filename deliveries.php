@@ -1,3 +1,7 @@
+<?php
+$page_title = 'Contact us';
+include 'includes/header.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -158,3 +162,4 @@
 
 </body>
 </html>
+include 'includes/footer.php';

@@ -1,3 +1,7 @@
+<?php
+$page_title = 'Contact us';
+include 'includes/header.php';
+?>
 <!DOCTYPE html>
 <html lang = "en">
     <head>
@@ -24,7 +28,7 @@
             <p>
                 <!-- the paragraph from text sheet: who may join-->
             </p>
-            <form action = "#"method = "post">
+            <form action="process-register.php" method="post">
                 <fieldset>
                     <legend>Your details</legend>
 
@@ -66,3 +70,4 @@
         </main>
     </body>
 </html>
+include 'includes/footer.php';

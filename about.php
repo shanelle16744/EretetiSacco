@@ -1,3 +1,7 @@
+<?php
+$page_title = 'About us';
+include 'includes/header.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -47,3 +51,4 @@ alt="The first cooler in 1998">
 </footer>
 </body>
 </html>
+include 'includes/footer.php';
